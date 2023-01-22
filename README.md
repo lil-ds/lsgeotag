@@ -13,7 +13,9 @@ I thought it was really interesting how New York and Seattle's word clouds were 
 
 Here are the links to download each city's csv:
 [New York](https://github.com/lil-ds/lsgeotag/blob/main/assets/twsearch-result-NY.csv)
+
 [Seattle](https://github.com/lil-ds/lsgeotag/blob/main/assets/twsearch-result-UWSeattle.csv)
+
 [Minneapolis](https://github.com/lil-ds/lsgeotag/blob/main/assets/twsearch-result-twincities-stpaul.csv)
 
 
